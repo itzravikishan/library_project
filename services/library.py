@@ -1,6 +1,6 @@
 from datetime import datetime
 
-# Dictionary for storing books
+
 books = {}
 
 def add_book():
